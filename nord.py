@@ -59,9 +59,9 @@ while True:
     exchange = ccxt.kucoin ({
         'asyncio_loop': asyncio_loop,
         'enableRateLimit': False,
-        'apiKey':'6263188c797c73000178f84d',
-        'secret':'d58f6945-c73f-4622-ad4d-94d830e5826e',
-        'password':'003003kM',
+        'apiKey':'',
+        'secret':'',
+        'password':'',
     })
   
     start_capital = 1000
